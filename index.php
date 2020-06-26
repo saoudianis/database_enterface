@@ -4,16 +4,14 @@
          <!-- the meta tags -->
         <meta charset="utf-8">
         <meta name="author" content="Anis Saoudi">
-        <meta name="description" content="learn hacking">
+        <meta name="description" content="admin login ">
         <meta http-equiv="X-UA-Compatible" content="IE-edge">
         <meta name="viewport" content="width-devuce-widht, initial-scale=1">
-        <meta http-equiv="content-language" content="EN,AR" />
+        <meta http-equiv="content-language" content="EN" />
          <!-- the icon of the page -->
         <link rel="icon" href="imgs/icon.ico">
-              <title>Contact Form</title>
+              <title>Admin Login</title>
         <!-- the link tags -->
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/all.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <!-- Styles -->
         <style>
